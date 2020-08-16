@@ -6,15 +6,15 @@
     "Cuatrimestre":2,
 
     "Clase":
-    {
-    "Fecha": "3/8/20",
-    "Keywords": ["Inteligencia Artificial", "Agentes"],
-    "Contenidos":
-    {
-        "Definicion": "Definicion de Inteligencia"
+        {
+        "Fecha": "3/8/20",
+        "Keywords": ["Inteligencia Artificial", "Agentes"],
+        "Contenidos":
+            {
+            "Definicion": "Definicion de Inteligencia"
 
-    }
+            }
    
-    }
+        }
     } 
 }  
