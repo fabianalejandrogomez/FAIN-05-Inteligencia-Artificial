@@ -1,0 +1,20 @@
+{"Inteligencia Artificial": 
+    {
+    "Profesor": "Sciolla, Pablo Fernando",
+    "Ayudante": "Ponzoni Cuadra, Nelson Eduardo",
+    "Año":2020,
+    "Cuatrimestre":2,
+
+    "Clase":
+    {
+    "Fecha": "3/8/20",
+    "Keywords": ["Inteligencia Artificial", "Agentes"],
+    "Contenidos":
+    {
+        "Definicion": "Definicion de Inteligencia"
+
+    }
+   
+    }
+    } 
+}  
